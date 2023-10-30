@@ -1,0 +1,14 @@
+.titles{
+    color:red; 
+    text-decoration: underline;
+}
+.image{
+    border: outset 2px;
+    align-items: center;
+    justify-content: center;
+}
+.blog-text{
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
